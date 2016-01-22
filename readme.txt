@@ -8,4 +8,5 @@ Versions will be created as such:
 
 - major.minor.patch_buildVersion
 NOTE: buildVersion should be auto incremented by build machine. 
+NOTE: DCG Test 3
 
