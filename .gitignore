@@ -1,0 +1,10 @@
+#COMMENT LINES START WITH THE # CHAR
+
+/build/
+/bin/
+.recommenders/
+.metadata/
+
+RemoteSystemsTempFiles/
+Servers2/
+Servers/
