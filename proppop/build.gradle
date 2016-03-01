@@ -45,7 +45,6 @@ dependencies {
 	testCompile 'junit:junit:4.10'	
 }
 
-
 eclipse {
 	classpath {
 		 containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
