@@ -29,6 +29,6 @@ public class CICRequestTest extends TestCase {
         connection = (HttpURLConnection) requestURL.openConnection ();
         
 		assertEquals("incorrect connection response code?", SUCCESSFUL_RESONSE_OK, connection.getResponseCode());
-		//COMMENT TO TEST COMMIT -> PUSH -> AUTO BUILD GENERATION.  attempt 47
+		//COMMENT TO TEST COMMIT -> PUSH -> AUTO BUILD GENERATION.  attempt 48
 	}
 }
