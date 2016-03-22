@@ -23,7 +23,7 @@ jar {
 }
 
 war {
-	war.archiveName "proppop_0.0.1.war"
+	war.archiveName "ROOT.war"
 }
 
 sourceCompatibility = 1.8
