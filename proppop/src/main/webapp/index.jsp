@@ -11,7 +11,7 @@
 		<div class="row-fluid">
 			<div class="span12">
 				<fieldset>
-					<legend>Proppop's First Resoponsive Wed Site AND AWS CODE PIPLE LINE attempt 2</legend>
+					<legend>Proppop's First Resoponsive Wed Site AND AWS CODE PIPLE LINE attempt 3</legend>
 					<form class="form-horizontal" method="post" action='/add'>
 						<div class="control-group">
 							<label class="control-label">First Name</label>
